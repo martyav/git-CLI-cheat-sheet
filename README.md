@@ -1,4 +1,4 @@
-A cheatsheet for using Git from Mac Terminal, for C4Q students & alumni, and anyone else who is either a beginner or forgetful
+*A cheatsheet for using Git from Mac Terminal, for C4Q students & alumni, and anyone else who is either a beginner or forgetful*
 
 Note: When dealing with Git, you have a *local* version of the project on your
 machine, and *remote* versions that you can see on the github website. The remote
