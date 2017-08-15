@@ -12,7 +12,7 @@ versions will not automatically update -- you need to commit any changes!
 * **Go into the project folder:** cd *insert name of project*
 * **Exit a folder:**  cd ..
 * **Save your latest changes to the remote repo:** *Make sure you're in the project 
-folder, then run* git commit origin master -a -m *sample message for your commit*
+folder, then run* git commit origin master -a -m *sample message for your commit -- make sure your message is contained in between quote marks!*
 * **If you get stuck in the message text editor (it's called Vim):** *Hit colon,
 then q, then press enter*
 * **Check that your local version is up to date with the remote, or see if there are any problems:** git status
