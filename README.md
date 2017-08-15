@@ -5,7 +5,7 @@ machine, and *remote* versions that you can see on the github website. The remot
 versions will not automatically update -- you need to commit any changes!
 
 * **Check the name of the current folder:** pwd
-* **Put the project in the current folder:** git clone *insert url of repo*
+* **Put the Github project in the current folder:** git clone *insert url of repo*
 * **View a list of files in the current folder:** ls
 * **Go into the project folder:** cd *insert name of project*
 * **Exit a folder:**  cd ..
