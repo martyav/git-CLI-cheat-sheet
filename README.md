@@ -19,7 +19,7 @@
 * **Go into the project folder:** cd *insert name of project*
 * **Add a remote repo:** git remote add *insert url from github, or name you want the remote to go by*
 * **Exit a folder:**  cd ..
-* **Stage your changes in the repo:** git add -a
+* **Stage your changes in the repo:** git add -A
 * **Save your latest changes to the local repo:** *Make sure you're in the project 
 folder, then run* git commit origin master -a -m *sample message for your commit -- make sure your message is contained in between quote marks!*
 * **Get your latest changes into the remote repo:** git push origin master
