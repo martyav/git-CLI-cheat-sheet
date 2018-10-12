@@ -1,6 +1,6 @@
 # Git Command Line Cheat Sheet
 
-*A cheat sheet for using Git from Mac Terminal, for C4Q students & alumni, and anyone else who is either a beginner or forgetful.*
+*A cheat sheet for using Git bash, for C4Q students & alumni, and anyone else who is either a beginner or forgetful.*
 
 ## Vocabulary
 * **Repo:** A special copy of your project that includes a list of changes (commits) you've made over time
